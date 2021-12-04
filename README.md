@@ -1,9 +1,9 @@
-<a href="https://practicum.yandex.ru/qa-engineer/wp-content/uploads/2015/07/snippet.png">**Яндекс.Практикум  QA**<a>
+<a href="https://practicum.yandex.ru/qa-engineer">**Яндекс.Практикум  QA**<a>
 
 
 ![image](https://user-images.githubusercontent.com/92970024/144723767-f47d545b-914a-439b-bd33-a65f28f7f84f.png)
 
-Курс <a href="https://practicum.yandex.ru/qa-engineer/wp-content/uploads/2015/07/snippet.png">**Яндекс.Практикум**<a>
+Курс <a href="https://practicum.yandex.ru/qa-engineer">**Яндекс.Практикум**<a>
 
 **Спринт 1**
 Введение в тест-дизайн и тест-анализ. Составление mind-map сервиса "Яндекс.Маршруты". Рисование блок-схемы на логику расчета стоимости и времени маршрута сервиса "Яндекс.Маршруты". Создание чек-листов и тест-кейсов на логику интерфейса сервиса "Яндекс.Маршруты". Тестирование UI сервиса "Яндекс.Маршруты".
